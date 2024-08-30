@@ -1,0 +1,6 @@
+# ignore ALL .log files except main.log
+*.log
+!main.log
+
+# ignore ALL files in ANY directory named temp
+temp/
